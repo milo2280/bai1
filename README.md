@@ -1,3 +1,3 @@
 Bai tap buoi 1  
 new folder  
-new branch - conflict123
+new branch - conflict
